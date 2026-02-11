@@ -27,7 +27,7 @@
 
 /*ESTILO DESKTOP*/
 body {
-    background-color: #0E1014;
+    background-color: #ffff;
 }
 
 header img {
@@ -76,7 +76,7 @@ a:hover {
 }
 
 h1, p, a {
-    color: #FFFFFF;
+    color: #000000;
 
 }
 
