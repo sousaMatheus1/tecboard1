@@ -30,11 +30,17 @@ body {
     background-color: #000000;
 }
 
+header {
+    display: flex;        
+    justify-content: center; 
+    width: 100%;        
+}  
+
 header img {
     display: block;
-    margin: 75px 0 0 250px;
+    margin-top: 50px;
 }
-
+    
 h1 {
     font-family: "unbounded", sans-serif;
     font-size: 64px;
@@ -91,11 +97,6 @@ section img {
 
 @media(max-width: 768px) {
 
-    header img {
-        margin: 65px 0 0 60px;
-    }
-
-
     p {
         width: 648px;
     }
@@ -103,9 +104,6 @@ section img {
 
 @media(max-width: 767px) {
 
-    header img {
-        margin: 32px 0 0 16px;
-    }
 
     h1 {
         font-size: 40px;
