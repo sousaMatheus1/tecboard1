@@ -2,7 +2,7 @@
 
 Projeto desenvolvido durante o curso [HTML e CSS: Ambiente, Estrutura e Estilo](https://cursos.alura.com.br/course/html-css-ambiente-estrutura-estilo) da Alura, com carga horária de 20 horas.
 
-![Preview do Projeto](<img src="./img/project.gif" width="100%">)
+![Preview do Projeto](./img/project.gif)
 
 ## Desafio
 Criar a estrutura de um site e estilizá-lo para diferentes dispositivos, garantindo boas práticas, responsividade e otimização para mecanismos de busca (SEO).
