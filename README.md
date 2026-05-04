@@ -1,26 +1,26 @@
-# HTML e CSS: Ambiente, Estrutura e Estilo
+# HTML and CSS: Environment, Structure, and Style
 
-Projeto desenvolvido durante o curso [HTML e CSS: Ambiente, Estrutura e Estilo](https://cursos.alura.com.br/course/html-css-ambiente-estrutura-estilo) da Alura, com carga horária de 20 horas.
+Project developed during the [HTML and CSS: Environment, Structure, and Style](https://cursos.alura.com.br/course/html-css-ambiente-estrutura-estilo) course by Alura, with a workload of 20 hours.
 
-![Preview do Projeto](./img/project.gif)
+![Project Preview](./img/project.gif)
 
-## Desafio
-Criar a estrutura de um site e estilizá-lo para diferentes dispositivos, garantindo boas práticas, responsividade e otimização para mecanismos de busca (SEO).
+## Challenge
+Create the structure of a website and style it for different devices, ensuring best practices, responsiveness, and Search Engine Optimization (SEO).
 
-## Solução
-- **Linguagens:** HTML e CSS
-- **Ferramentas:** Editor de código (VS Code, Sublime Text, etc.) e navegador web com ferramentas de desenvolvedor.
-- **Estrutura:** Utilização de HTML semântico para organizar o conteúdo, garantindo acessibilidade e organização.
-- **Estilização:** Aplicação de CSS para definição de cores, tipografia e layout responsivo.
+## Solution
+- **Languages:** HTML and CSS
+- **Tools:** Code Editor (VS Code, Sublime Text, etc.) and web browser with developer tools.
+- **Structure:** Use of semantic HTML to organize the content, ensuring accessibility and organization.
+- **Styling:** Application of CSS to define colors, typography, and a responsive layout.
 
-## Otimização de SEO
-- Utilização de tags de título (H1, H2, etc.) para destacar o conteúdo principal.
-- Implementação de meta descrições relevantes para cada página.
-- Otimização de imagens com atributos "alt" descritivos.
-- Criação de URLs amigáveis para facilitar a indexação pelos motores de busca.
+## SEO Optimization
+- Use of heading tags (H1, H2, etc.) to highlight the main content.
+- Implementation of relevant meta descriptions for each page.
+- Image optimization with descriptive "alt" attributes.
+- Creation of friendly URLs to facilitate indexing by search engines.
 
-## Resultado
-Criação de uma landing page funcional, visualmente atraente e otimizada para SEO, que se adapta a diferentes tamanhos de tela (desktop, tablet, celular), demonstrando a aplicação das boas práticas de HTML e CSS, além de técnicas de otimização para melhorar o posicionamento nos resultados de busca.
+## Result
+Creation of a functional, visually appealing, and SEO-optimized landing page that adapts to different screen sizes (desktop, tablet, mobile), demonstrating the application of HTML and CSS best practices, as well as optimization techniques to improve ranking in search results.
 
 ## Links
 - **Vercel:** [https://tecboard1.vercel.app/]
